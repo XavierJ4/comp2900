@@ -1,2 +1,2 @@
 print('Hola mundo!')
-print('JOhn Doe')
+print('John Doe')
